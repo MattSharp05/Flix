@@ -1,6 +1,6 @@
 # Flix
 
-<<<<<<< HEAD
+
 ## Flix Part 2
 
 ### User Stories
@@ -22,7 +22,7 @@
 I had some difficulty finding the API for the superhero movies but I figured it out eventually.
 
 =======
->>>>>>> 61e7dff0845d3d863521c9a61943a7e9fc1a46ee
+
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
